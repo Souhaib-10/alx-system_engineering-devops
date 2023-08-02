@@ -1,0 +1,1 @@
+This script "0-current_working_directory" is a simple shell script that prints the absolute path name of the current working directory. It uses the `pwd` command to fetch and display the absolute path
