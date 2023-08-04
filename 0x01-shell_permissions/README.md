@@ -11,3 +11,4 @@ file "9-John_Doe"script that sets the mode of the file hello he file hello will 
 file "10-mirror_permissions1" script that sets the mode of the file hello the same as olleh’s mode.1
 file "11-directories_permissions" script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
 file "12-directory_permissions" script that creates a directory called my_dir with permissions 751 in the working directory
+file "13-change_group" script that changes the group owner to school for the file hello
