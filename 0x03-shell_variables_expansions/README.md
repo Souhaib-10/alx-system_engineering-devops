@@ -6,3 +6,4 @@ File /44-global_variables/script that lists environment variables
 File /5-local_variables/script that lists all local variables and environment variables, and functions \n
 File /6-create_local_variable/script that creates a new local variable\n
 File "7-create_global_variable" \n
+File "8-true_knowledge"script that prints the result of the addition of 128 with the value\n
