@@ -4,3 +4,4 @@ File /2-path/Add /action to the PATH. /action should be the last directory the s
 File /3-paths/script that counts the number of directories in the PATH\n
 File /44-global_variables/script that lists environment variables
 File /5-local_variables/script that lists all local variables and environment variables, and functions \n
+File /6-create_local_variable/script that creates a new local variable\n
