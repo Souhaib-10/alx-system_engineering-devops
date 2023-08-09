@@ -16,3 +16,4 @@ File /14-findthatword/ Display lines containing the pattern “root” from the 
 File /15-countthatword/Display the number of lines that contain the pattern “bin” in the file /etc/passwd
 File /16-whatsnext/Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.
 File /18-letteronly/Display all lines of the file /etc/ssh/sshd_config starting with a letter.
+File /19-AZ/Replace all characters A and c from input to Z and e respectively.
