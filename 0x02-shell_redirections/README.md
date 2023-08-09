@@ -19,3 +19,4 @@ File /18-letteronly/Display all lines of the file /etc/ssh/sshd_config starting 
 File /19-AZ/Replace all characters A and c from input to Z and e respectively.
 File /20-hiago/script that removes all letters c and C from input
 File /21-reverse/script that reverse its input.
+File /22-users_and_homes/script that displays all users and their home directories, sorted by users
