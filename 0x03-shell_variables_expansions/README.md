@@ -10,3 +10,4 @@ File "8-true_knowledge"script that prints the result of the addition of 128 with
 File "9-divide_and_rule"script that prints the result of POWER divided by DIVIDE\n
 File "10-love_exponent_breath"script that displays the result of BREATH to the power LOVE\n
 File "11-binary_to_decimal"script that converts a number from base 2 to base 10\n
+File "12-combinations"script that prints all possible combinations of two letters, except oo\n
