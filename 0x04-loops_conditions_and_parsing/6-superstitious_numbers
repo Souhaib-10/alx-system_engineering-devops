@@ -29,5 +29,5 @@ do
 	    ;;
     esac
 
-    let COUNT+=1
+    ((COUNT++))
 done
